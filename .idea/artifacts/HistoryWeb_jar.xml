@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HistoryWeb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HistoryWeb_jar</output-path>
+    <root id="archive" name="HistoryWeb.jar">
+      <element id="module-output" name="HistoryWeb" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/java-websocket/Java-WebSocket/1.5.2/Java-WebSocket-1.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/pcap4j/pcap4j-packetfactory-static/1.8.1/pcap4j-packetfactory-static-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.32/slf4j-api-1.7.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.6/logback-classic-1.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/pcap4j/pcap4j-core/1.8.1/pcap4j-core-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.6/logback-core-1.2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
